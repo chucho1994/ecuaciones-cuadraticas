@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">chicharronera</string>
+
+
+    <string name="IngresaA">Ingresa A : </string>
+    <string name="ingresoa">A</string>
+
+    <string name="IngresaB">Ingresa B : </string>
+    <string name="ingresob">B</string>
+
+    <string name="IngresaC">Ingresa C : </string>
+    <string name="Ingresoc">C</string>
+
+    <string name="Raiz">Raiz : </string>
+    <string name="resultado_raiz">Resultado Raiz</string>
+
+    <string name="X1">X1 : </string>
+    <string name="resultado_x1"> </string>
+
+    <string name="X2">X2 : </string>
+    <string name="resultado_x2"> </string>
+    <string name="boton_resultado">Calcular </string>
+
+
+
+</resources>
